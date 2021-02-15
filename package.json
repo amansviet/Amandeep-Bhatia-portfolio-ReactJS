@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "http://amansviet.github.io/Amandeep-Bhatia-portfolio-ReactJS",
+  "homepage": "http://amansviet.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
