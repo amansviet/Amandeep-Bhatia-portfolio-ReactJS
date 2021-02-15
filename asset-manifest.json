@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3dca747a.chunk.css",
+    "main.js": "/portfolio/static/js/main.dc73cb41.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.dc73cb41.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8fed2963.js.map",
+    "static/js/2.dccf4a2c.chunk.js": "/portfolio/static/js/2.dccf4a2c.chunk.js",
+    "static/js/2.dccf4a2c.chunk.js.map": "/portfolio/static/js/2.dccf4a2c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.3dca747a.chunk.css.map": "/portfolio/static/css/main.3dca747a.chunk.css.map",
+    "static/js/2.dccf4a2c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.dccf4a2c.chunk.js.LICENSE.txt",
+    "static/media/birthday.cc30d2aa.png": "/portfolio/static/media/birthday.cc30d2aa.png",
+    "static/media/App.css": "/portfolio/static/media/coffee-apple.a0c19713.jpg",
+    "static/media/javascript-fullstack.f5822e7b.jpg": "/portfolio/static/media/javascript-fullstack.f5822e7b.jpg",
+    "static/media/myimage.cd7f813a.JPG": "/portfolio/static/media/myimage.cd7f813a.JPG",
+    "static/media/reviews.5b1bcc93.png": "/portfolio/static/media/reviews.5b1bcc93.png",
+    "static/media/tour.ec532662.png": "/portfolio/static/media/tour.ec532662.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fed2963.js",
+    "static/js/2.dccf4a2c.chunk.js",
+    "static/css/main.3dca747a.chunk.css",
+    "static/js/main.dc73cb41.chunk.js"
+  ]
+}
